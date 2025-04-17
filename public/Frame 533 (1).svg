@@ -1,0 +1,144 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="496"
+      height="496"
+      viewBox="0 0 496 496"
+      fill="none"
+    >
+      <g style={{ mixBlendMode: 'color-dodge' }}>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M67.1668 51.6667V15.5L20.6667 72.3333H56.8334V108.5L103.333 51.6667L67.1668 51.6667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M191.167 51.6667V15.5L144.667 72.3333H180.833V108.5L227.333 51.6667L191.167 51.6667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M315.167 51.6667V15.5L268.667 72.3333H304.833V108.5L351.333 51.6667L315.167 51.6667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M439.167 51.6667V15.5L392.667 72.3333H428.833V108.5L475.333 51.6667L439.167 51.6667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+      </g>
+      <g style={{ mixBlendMode: 'color-dodge' }}>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M67.1668 175.667V139.5L20.6667 196.333H56.8334V232.5L103.333 175.667L67.1668 175.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M191.167 175.667V139.5L144.667 196.333H180.833V232.5L227.333 175.667L191.167 175.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M315.167 175.667V139.5L268.667 196.333H304.833V232.5L351.333 175.667L315.167 175.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M439.167 175.667V139.5L392.667 196.333H428.833V232.5L475.333 175.667L439.167 175.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+      </g>
+      <g style={{ mixBlendMode: 'color-dodge' }}>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M67.1668 299.667V263.5L20.6667 320.333H56.8334V356.5L103.333 299.667L67.1668 299.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M191.167 299.667V263.5L144.667 320.333H180.833V356.5L227.333 299.667L191.167 299.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M315.167 299.667V263.5L268.667 320.333H304.833V356.5L351.333 299.667L315.167 299.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M439.167 299.667V263.5L392.667 320.333H428.833V356.5L475.333 299.667L439.167 299.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+      </g>
+      <g style={{ mixBlendMode: 'color-dodge' }}>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M67.1668 423.667V387.5L20.6667 444.333H56.8334V480.5L103.333 423.667L67.1668 423.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M191.167 423.667V387.5L144.667 444.333H180.833V480.5L227.333 423.667L191.167 423.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M315.167 423.667V387.5L268.667 444.333H304.833V480.5L351.333 423.667L315.167 423.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+        <g style={{ mixBlendMode: 'screen' }}>
+          <g style={{ mixBlendMode: 'overlay', opacity: 0.4 }}>
+            <path
+              d="M439.167 423.667V387.5L392.667 444.333H428.833V480.5L475.333 423.667L439.167 423.667Z"
+              fill="#473b77"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>

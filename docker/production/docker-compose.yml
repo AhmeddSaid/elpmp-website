@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  main-website-production:
+    build:
+      context: ../../
+      dockerfile: docker/production/Dockerfile
+    volumes:
+      - ~/.aws:/root/.aws
+    image: main-website-production
+    ports:
+      - "3013:3000"

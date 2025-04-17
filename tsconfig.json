@@ -1,0 +1,32 @@
+{
+	"compilerOptions": {
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"plugins": [
+			{
+				"name": "next"
+			}
+		],
+		"paths": {
+			"@/Utils/*": ["./src/Library/Utils/*"],
+			"@/Components/*": ["./src/Library/Components/*"],
+			"@/UI/*": ["./src/Library/Components/UI/*"],
+			"@/Grids": ["./src/Library/Grids/Grids.tsx"],
+			"@/Typography": ["./src/Library/Typography/Typography.ts"],
+			"@/Spaces": ["./src/Library/Grids/Spaces.module.css"],
+			"@/*": ["./src/*"]
+		}
+	},
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+	"exclude": ["node_modules"]
+}

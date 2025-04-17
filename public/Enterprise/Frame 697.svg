@@ -1,0 +1,84 @@
+<svg width="1440" height="1649" viewBox="0 0 1440 1649" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_14)">
+<rect width="1440" height="1649" fill="#1D202B"/>
+<rect width="1440" height="660" transform="translate(0 989)" fill="url(#paint0_linear_1_14)"/>
+<ellipse cx="720" cy="-3" rx="770" ry="577" fill="url(#paint1_radial_1_14)"/>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="1200.83" y="-98.8344" width="136" height="136" transform="rotate(45 1200.83 -98.8344)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="1008.5" y="-98.8344" width="136" height="136" transform="rotate(45 1008.5 -98.8344)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="1104.67" y="-2.66785" width="136" height="136" transform="rotate(45 1104.67 -2.66785)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="816.167" y="-98.8344" width="136" height="136" transform="rotate(45 816.167 -98.8344)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="912.333" y="-2.66785" width="136" height="136" transform="rotate(45 912.333 -2.66785)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="1008.5" y="93.4987" width="136" height="136" transform="rotate(45 1008.5 93.4987)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="623.833" y="-98.8343" width="136" height="136" transform="rotate(45 623.833 -98.8343)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="720" y="-2.66772" width="136" height="136" transform="rotate(45 720 -2.66772)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="816.166" y="93.4988" width="136" height="136" transform="rotate(45 816.166 93.4988)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="912.333" y="189.665" width="136" height="136" transform="rotate(45 912.333 189.665)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="431.5" y="-98.8343" width="136" height="136" transform="rotate(45 431.5 -98.8343)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="527.667" y="-2.66779" width="136" height="136" transform="rotate(45 527.667 -2.66779)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="623.833" y="93.4988" width="136" height="136" transform="rotate(45 623.833 93.4988)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="720" y="189.665" width="136" height="136" transform="rotate(45 720 189.665)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="816.166" y="285.832" width="136" height="136" transform="rotate(45 816.166 285.832)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="239.167" y="-98.8344" width="136" height="136" transform="rotate(45 239.167 -98.8344)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="335.334" y="-2.66779" width="136" height="136" transform="rotate(45 335.334 -2.66779)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="431.5" y="93.4987" width="136" height="136" transform="rotate(45 431.5 93.4987)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="527.667" y="189.665" width="136" height="136" transform="rotate(45 527.667 189.665)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="623.833" y="285.832" width="136" height="136" transform="rotate(45 623.833 285.832)" stroke="#4F29F3"/>
+</g>
+<g style="mix-blend-mode:color-dodge" opacity="0.3">
+<rect x="720" y="381.998" width="136" height="136" transform="rotate(45 720 381.998)" stroke="#4F29F3"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_14" x1="720" y1="30" x2="720" y2="660" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D202B"/>
+<stop offset="0.43241" stop-color="#221664"/>
+<stop offset="1" stop-color="#290AAE"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1_14" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 -3) scale(770 577)">
+<stop stop-color="#50028D" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#1D202B"/>
+</radialGradient>
+<clipPath id="clip0_1_14">
+<rect width="1440" height="1649" fill="white"/>
+</clipPath>
+</defs>
+</svg>

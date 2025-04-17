@@ -1,0 +1,179 @@
+{
+	"ContactUs": {
+		"Title": "لنتواصل!",
+		"Heading": "هل لديك سؤال؟ نحن هنا من أجلك!",
+		"Body": "سواء كانت لديك أسئلة حول دوراتنا، أو تحتاج إلى مساعدة مع محاكي الامتحان، أو ترغب في استكشاف فرص الشراكة، فإن فريقنا المخصص مستعد لتقديم دعم شخصي.",
+		"Form": {
+			"LearnMore": {
+				"LearnMore1": {
+					"Icon": "",
+					"Heading": "تعرف على المزيد حول دوراتنا",
+					"Link": "استكشاف الدورات"
+				},
+				"LearnMore2": {
+					"Icon": "",
+					"Heading": "تعرف على المزيد حول محاكي الاختبار لدينا",
+					"Link": "استكشاف المحاكي"
+				},
+				"LearnMore3": {
+					"Icon": "",
+					"Heading": "تحتاج إلى تدريب للمؤسسات",
+					"Link": "تعرف على المزيد"
+				},
+				"LearnMore4": {
+					"Icon": "",
+					"Heading": "نحن نتوسع بسرعة! هل تهتم بالعمل معنا؟ أرسل لنا رسالة على:",
+					"Link": "support@elpmp.com"
+				}
+			},
+			"Title": "لا يزال لديك سؤال؟ املأ النموذج أدناه، وسيتم التواصل معك على الفور بواسطة خبير في المبيعات أو الدعم.",
+			"Labels": {
+				"firstName": "الأسم الأول",
+				"lastName": "الأسم الأخير",
+				"Label1": "الاسم*",
+				"Label2": "البريد الإلكتروني*",
+				"Label3": "رقم الجوال*",
+				"Label4": "كيف يمكننا مساعدتك؟",
+				"Label5": "كيف يمكننا مساعدتك؟"
+			},
+			"Button": "تواصل معنا",
+			"Hint": "الحد الأقصى لوقت الاستجابة: يوم عمل واحد، الأحد - الخميس من 9 صباحًا حتى 5 مساءً"
+		}
+	},
+	"Enterprise": {
+		"HeroSection": {
+			"Title": "Elevate Your Project Management",
+			"Heading": "Invest in Enterprise-Wide PMP Excellence",
+			"Body": "Transform your organization's project outcomes with comprehensive PMP training solutions tailored to your needs.",
+			"Button": "Call to action"
+		},
+		"Challenge": {
+			"Title": "The Challenge",
+			"Caption": {
+				"Caption1": "Bridge the Gap Between",
+				"Caption2": "Inconsistent Results & Unmatched",
+				"Caption3": "Success"
+			},
+			"Insights": {
+				"Insight1": {
+					"Percent": "10%",
+					"Paragraph": {
+						"Part1": "On average, enterprises lose",
+						"Part2": " $97 million",
+						"Part3": "for every",
+						"Part4": "$1B",
+						"Part5": "invested in poorly managed projects."
+					}
+				},
+				"Insight2": {
+					"Percent": "2.5%",
+					"Paragraph": "of companies successfully completed 100% of their projects."
+				}
+			},
+			"Body": {
+				"Paragraphs": {
+					"Paragraph1": "Are inconsistent project results costing your enterprise a fortune?",
+					"Paragraph2": "You're not alone.",
+					"Paragraph3": "On average, enterprises lose a staggering 10% on every $1 billion invested in poorly managed projects.",
+					"Paragraph4": "That's $97 million down the drain for every $1 billion you spend.",
+					"Paragraph5": "But what if",
+					"Paragraph6": "• You could achieve consistent success? ",
+					"Paragraph7": "• You could be one of the elite 2.5% of companies that successfully completes 100% of their projects?"
+				}
+			}
+		},
+		"Effective": {
+			"Title": "With effective project management, you can:",
+			"Cards": {
+				"Card1": {
+					"Icon": "",
+					"Heading": "Increased ROI",
+					"Body": "Studies show that companies with strong project management practices see an average 600% ROI on their investment."
+				},
+				"Card2": {
+					"Icon": "",
+					"Heading": "Reduced Costs",
+					"Body": "By streamlining processes and avoiding costly mistakes, you can save up to 30% on project costs."
+				},
+				"Card3": {
+					"Icon": "",
+					"Heading": "More Productivity",
+					"Body": "Streamlined workflows and clear communication can lead to a 20% increase in productivity."
+				},
+				"Card4": {
+					"Icon": "",
+					"Heading": "Increase customer satisfaction",
+					"Body": "Streamlined workflows and clear communication can lead to a 20% increase in productivity."
+				}
+			}
+		},
+		"Ready": {
+			"Title": "Ready to boost your company?",
+			"Body": "Don't let inconsistent project results hold your enterprise back. Contact us today to learn how our project management solutions can help you achieve unmatched success.",
+			"Button": "Contact Us"
+		},
+		"Benefits": {
+			"Title": "ELPMP Benefits",
+			"Heading": "Unlock Project Success with ELPMPs Enterprise Solutions",
+			"Body": "Reduce project delays by an average of 15%, streamline execution timelines, and improve on-budget delivery rates.\n\n",
+			"Cards": {
+				"Card1": {
+					"Icon": "",
+					"Title": "Tailored Training",
+					"Caption": "Get PMP training aligned with your enterprise's goals and industry, leading to a 20% boost in on-time delivery.",
+					"Background": "yellow"
+				},
+				"Card2": {
+					"Icon": "",
+					"Title": "Flexible Delivery",
+					"Caption": "Choose the format that drives your success – online, in-person, or blended – minimizing disruption to your business operations.",
+					"Background": "blue"
+				},
+				"Card3": {
+					"Icon": "",
+					"Title": "Expert Instructors",
+					"Caption": "Learn from seasoned project management champions, driving immediate improvements in your teams' approach.",
+					"Background": "pink"
+				},
+				"Card4": {
+					"Icon": "",
+					"Title": "Scalable Solutions",
+					"Caption": "Equip teams of any size with a unified language of project management, ensuring efficiency and collaboration at every level.",
+					"Background": "white"
+				}
+			}
+		},
+		"Partner": {
+			"Title": "Our partners",
+			"Heading": "Trusted by Professionals Globally",
+			"Body": "Join the ranks of successful companies whose teams have excelled with our PMI certification training"
+		},
+		"MoreQuestion": {
+			"LearnMore": {
+				"LearnMore1": {
+					"Icon": "",
+					"Heading": "Learn more about our courses",
+					"Link": "Explore courses"
+				},
+				"LearnMore2": {
+					"Icon": "",
+					"Heading": "Learn more about our test simulator ",
+					"Link": "Explore simulator"
+				},
+				"LearnMore3": {
+					"Icon": "",
+					"Heading": "Need enterprise training",
+					"Link": "Learn more"
+				},
+				"LearnMore4": {
+					"Icon": "",
+					"Heading": "We’re growing fast! Interested in working with us? Send us a message at:",
+					"Link": "workwithus@elpmp.com"
+				}
+			},
+			"Heading": "Have More Questions?",
+			"Body": "We're here to help you navigate your enterprise's project management training journey. Contact us for more information or to discuss your specific training needs.",
+			"Button": "Contact Us"
+		}
+	}
+}
